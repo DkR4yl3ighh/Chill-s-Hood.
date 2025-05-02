@@ -1,0 +1,51 @@
+{
+  "wasd.installed:wasd": {
+    "criteria": {
+      "requirement": "2025-05-02 19:29:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-02 19:29:36 -0300"
+    },
+    "done": true
+  },
+  "senti:register": {
+    "criteria": {
+      "requirement": "2025-05-02 19:29:36 -0300"
+    },
+    "done": true
+  },
+  "backpacks:tree/root": {
+    "criteria": {
+      "requirement": "2025-05-02 19:29:36 -0300"
+    },
+    "done": true
+  },
+  "jkmt:unlock": {
+    "criteria": {
+      "jk": "2025-05-02 19:29:37 -0300"
+    },
+    "done": true
+  },
+  "wasd.wand:pack": {
+    "criteria": {
+      "requirement": "2025-05-02 19:29:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-05-02 19:29:37 -0300"
+    },
+    "done": false
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-05-02 19:29:36 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

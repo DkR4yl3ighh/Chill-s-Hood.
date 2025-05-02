@@ -1,0 +1,99 @@
+{
+  "wasd.installed:wasd": {
+    "criteria": {
+      "requirement": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "senti:register": {
+    "criteria": {
+      "requirement": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/root": {
+    "criteria": {
+      "requirement": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "jkmt:unlock": {
+    "criteria": {
+      "jk": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "wasd.wand:pack": {
+    "criteria": {
+      "requirement": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-05-02 22:46:49 +0000"
+    },
+    "done": false
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-05-02 22:46:49 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/links/discord": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/root": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/links/patreon": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.installed:library": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/links/patron": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/links/youtube": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/links/website": {
+    "criteria": {
+      "requirement": "2025-05-02 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "wasd.lib:wasd/inventory_changed": {
+    "criteria": {
+      "requirement": "2025-05-02 23:35:08 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

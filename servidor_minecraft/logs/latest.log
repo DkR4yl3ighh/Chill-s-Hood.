@@ -1,0 +1,177 @@
+[23:34:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:34:14] [ServerMain/INFO]: Loaded 1499 recipes
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/neptunium_essence
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown item component 'minecraft:tooltip_display' at position 166: ...spect":1},<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown item component 'minecraft:tooltip_display' at position 166: ...spect":1},<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/maxsetup
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Malformed 'minecraft:custom_name' component: 'Not a string' at position 68: ...stom_name=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Malformed 'minecraft:custom_name' component: 'Not a string' at position 68: ...stom_name=<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/dread_blade
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:custom_name' component: 'Not a string' at position 206: ...stom_name=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:custom_name' component: 'Not a string' at position 206: ...stom_name=<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/neptunium_crystal
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown item component 'minecraft:tooltip_display' at position 167: ...ction":1},<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown item component 'minecraft:tooltip_display' at position 167: ...ction":1},<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/neptunium_bow
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:custom_name' component: 'Not a string' at position 24: ...stom_name=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:custom_name' component: 'Not a string' at position 24: ...stom_name=<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/titan_flame
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:can_place_on' component: 'Failed to parse either. First: Not a map: [{blocks:"netherrack"}]; Second: Not a map: [{blocks:"netherrack"}]' at position 37: ..._place_on=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:can_place_on' component: 'Failed to parse either. First: Not a map: [{blocks:"netherrack"}]; Second: Not a map: [{blocks:"netherrack"}]' at position 37: ..._place_on=<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:give/bloodsteel_set
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:custom_name' component: 'Not a string' at position 37: ...stom_name=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:custom_name' component: 'Not a string' at position 37: ...stom_name=<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Failed to load function survivalexpansion:main
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 683: Malformed 'minecraft:lore' component: 'com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 8 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json' at position 75: ... bedrock"]<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 683: Malformed 'minecraft:lore' component: 'com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 8 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json' at position 75: ... bedrock"]<--[HERE]
+	at il.a(SourceFile:80) ~[server-1.21.4.jar:?]
+	at alj.a(SourceFile:87) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23:34:14] [ServerMain/ERROR]: Couldn't load tag minecraft:tick as it is missing following references: survivalexpansion:main (from file/survivalexpansion-e1031.zip)
+[23:34:14] [ServerMain/INFO]: Loaded 1568 advancements
+[23:34:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[23:34:14] [Server thread/INFO]: Loading properties
+[23:34:14] [Server thread/INFO]: Default game type: SURVIVAL
+[23:34:14] [Server thread/INFO]: Generating keypair
+[23:34:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:34:14] [Server thread/INFO]: Using epoll channel type
+[23:34:14] [Server thread/INFO]: Preparing level "world"
+[23:34:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:28] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[23:34:29] [Server thread/INFO]: Time elapsed: 13500 ms
+[23:34:29] [Server thread/INFO]: Done (14.318s)! For help, type "help"
+[23:34:32] [User Authenticator #1/INFO]: UUID of player 4gxss_ is 2da2d18c-10fb-4344-89ee-5953f98e70ab
+[23:34:33] [Server thread/INFO]: 4gxss_[/127.87.84.121:48995] logged in with entity id 43 at (-901.9555684852088, 75.0, 163.7544177867069)
+[23:34:33] [Server thread/INFO]: 4gxss_ joined the game
+[23:39:44] [Server thread/INFO]: 4gxss_ lost connection: Disconnected
+[23:39:44] [Server thread/INFO]: 4gxss_ left the game
+[23:40:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
