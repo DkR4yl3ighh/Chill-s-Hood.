@@ -37,6 +37,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-08-05 20:27:09 +0000",
+      "minecraft:river": "2025-08-05 20:27:17 +0000",
       "minecraft:plains": "2025-05-02 22:46:49 +0000"
     },
     "done": false
@@ -94,6 +96,18 @@
       "requirement": "2025-05-02 23:35:08 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-05 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-05 20:32:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }
